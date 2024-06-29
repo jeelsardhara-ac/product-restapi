@@ -1,0 +1,82 @@
+[
+    {
+        "id": "lgc2100",
+        "product_name": "LG C2100",
+        "product_price": "$19.38",
+        "price_off": "10%",
+        "product_image": "http://dummyimage.com/223x100.png/cc0000/ffffff",
+        "product_info": "Nondisp fx of lateral condyle of l femr, 7thE"
+    },
+    {
+        "id": "micromaxgc700",
+        "product_name": "Micromax GC700",
+        "product_price": "$14.69",
+        "price_off": "10%",
+        "product_image": "http://dummyimage.com/116x100.png/dddddd/000000",
+        "product_info": "Diseases of the digestive system compl preg/chldbrth"
+    },
+    {
+        "id": "micromaxa113",
+        "product_name": "Micromax A113 Canvas Ego",
+        "product_price": "$12.88",
+        "price_off": "10%",
+        "product_image": "http://dummyimage.com/221x100.png/ff4444/ffffff",
+        "product_info": "Other superficial bite of right index finger, subs encntr"
+    },
+    {
+        "id": "benqsiemens",
+        "product_name": "BenQ-Siemens A58",
+        "product_price": "$18.46",
+        "price_off": "10%",
+        "product_image": "http://dummyimage.com/195x100.png/5fa2dd/ffffff",
+        "product_info": "Posterior reversible encephalopathy syndrome"
+    },
+    {
+        "id": "plumflipper",
+        "product_name": "Plum Flipper",
+        "product_price": "$18.64",
+        "price_off": "10%",
+        "product_image": "http://dummyimage.com/179x100.png/5fa2dd/ffffff",
+        "product_info": "Immersion hand, left hand, sequela"
+    },
+    {
+        "id": "samsungs3110",
+        "product_name": "Samsung S3110",
+        "product_price": "$18.47",
+        "price_off": "10%",
+        "product_image": "http://dummyimage.com/237x100.png/5fa2dd/ffffff",
+        "product_info": "Nondisp transcondy fx unsp humerus, subs for fx w routn heal"
+    },
+    {
+        "id": "energizerenergy",
+        "product_name": "Energizer Energy 100",
+        "product_price": "$15.79",
+        "price_off": "10%",
+        "product_image": "http://dummyimage.com/173x100.png/ff4444/ffffff",
+        "product_info": "Displaced oblique fracture of shaft of unsp tibia, init"
+    },
+    {
+        "id": "vodafonesmartx9",
+        "product_name": "Vodafone Smart X9",
+        "product_price": "$19.96",
+        "price_off": "10%",
+        "product_image": "http://dummyimage.com/250x100.png/dddddd/000000",
+        "product_info": "Contact with kitchen utensil"
+    },
+    {
+        "id": "nokia603",
+        "product_name": "Nokia 603",
+        "product_price": "$11.41",
+        "price_off": "10%",
+        "product_image": "http://dummyimage.com/210x100.png/ff4444/ffffff",
+        "product_info": "Poisoning by mixed bact vaccines w/o a pertuss, acc, subs"
+    },
+    {
+        "id": "nokia109",
+        "product_name": "Nokia 109",
+        "product_price": "$12.78",
+        "price_off": "10%",
+        "product_image": "http://dummyimage.com/169x100.png/5fa2dd/ffffff",
+        "product_info": "Vitreomacular adhesion, left eye"
+    }
+]
